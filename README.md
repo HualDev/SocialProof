@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/Hualdop/LandingPage/tree/master)
-- Live Site URL: [](https://hualdop.github.io/LandingPage/)
+- Solution URL: [](https://github.com/Hualdop/SocialProof/tree/master)
+- Live Site URL: [](https://hualdop.github.io/SocialProof/)
 
 
 ## My process
@@ -67,5 +67,5 @@ I´d like to learn about grid an Java Script.
 ## Author
 
 - Website - [Hualdo](https://hualdop.github.io/Hualcap/)
-- Frontend Mentor - [@Hualdop](https://www.frontendmentor.io/profile/Hualdop)
+- Frontend Mentor - [@HualDev](https://www.frontendmentor.io/profile/Hualdop)
 - Twitter - [@Hualdos](https://www.twitter.com/hualdos)
